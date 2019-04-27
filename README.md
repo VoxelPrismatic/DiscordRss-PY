@@ -1,0 +1,2 @@
+# DiscordRss-PY
+A mini bot using Feedy [ded] and Discord.py REWRITE
